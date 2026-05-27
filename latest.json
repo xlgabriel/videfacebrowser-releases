@@ -1,11 +1,19 @@
 {
-  "version": "0.7.0",
-  "notes": "See https://github.com/xlgabriel/videfacebrowser-releases/releases/tag/v0.7.0",
-  "pub_date": "2026-05-27T01:39:13Z",
+  "version": "0.7.4",
+  "notes": "VideFace Browser v0.7.4",
+  "pub_date": "2026-05-27T03:34:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK1JSeTZBR0RBNzA5OTlGc0g0MGNMUUtVSExuZk5mUS9EOVRwRk9QVGt1c1cycExOMHhGRHQxc3lJay91cSt3bElzMXlEOXlMVWpHUk9ubS9EREplU2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODQ1ODEwCWZpbGU6VmlkZUZhY2UgQnJvd3Nlcl8wLjcuMF94NjRfZW4tVVMubXNpCko1RXoxWnM3dUJVcFZtM1d5MzM2b3NMMUhLa0k0SlFxS090cVlqby9KckR3NmZybmcxSHBkL1hXeXVOcW44b2owWEN0U1RBKzBKeVVwL0xVd3lJSkRnPT0K",
-      "url": "https://github.com/xlgabriel/videfacebrowser-releases/releases/download/v0.7.0/VideFace Browser_0.7.0_x64_en-US.msi"
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.4/VideFace",
+      "signature": ""
+    },
+    "darwin-x86_64": {
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.4/VideFace",
+      "signature": ""
+    },
+    "darwin-aarch64": {
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.4/VideFace",
+      "signature": ""
     }
   }
 }
