@@ -1,19 +1,19 @@
 {
-  "version": "0.7.13",
-  "notes": "VideFace Browser v0.7.13",
-  "pub_date": "2026-05-27T20:30:53Z",
+  "version": "0.7.14",
+  "notes": "VideFace Browser v0.7.14",
+  "pub_date": "2026-05-27T20:36:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.13/VideFace%20Browser_0.7.13_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2JTeWFXbFUvSXc4eGhIS3NSVE4yaDg1KzJUdUw2eElpYkRibGVKaEE4WWNlZmdxRXZHYTZIOGdnSzlFVjRvMDVaYWlaMU9LWHg5YUcvMlpUdUFtUGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTEzNzAzCWZpbGU6VmlkZUZhY2UgQnJvd3Nlcl8wLjcuMTNfeDY0LXNldHVwLmV4ZQpHZU90NHVHRFM4d29JN3Q2TTVLU2hlcUFJekJvZGd6MGViQWtnUk5UbnpFd2g4Rk13YmNnb0VSVUd1a3dDS3c2NWlrcXBGeC81NUlYb1RLTXVuYmJEQT09Cg=="
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.14/VideFace%20Browser_0.7.14_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2JLUFIxWXFpMmcxaVhqdklpK1E5R3RtNkRPWVpDNTRKcmRla2J0VXRsVFR5RHFScGhaOUJCM1hkQWEzUkJuQU9BRDNjNnA5QzBjVGptVDROemFwSUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE0MDE5CWZpbGU6VmlkZUZhY2UgQnJvd3Nlcl8wLjcuMTRfeDY0LXNldHVwLmV4ZQpsaGExcnZuT0lEZkRMaGpjT2Q3bmtGZytUM1RHN0pqNWZnL1dUVTRUSW8zaGcrZ3RrTGJPcGF0Q3o3ODY1SVdvZ0dnb0g0aUZFYXNlQmZ3Rk9oSFRDQT09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.13/VideFace%20Browser.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK1lWVDB0K0FXYThjZDdGNjIwazMvcC9Fd3FyZ0l1SnBzUTNVZHFKVVB4OGppSEpFc1E5VEgreUdkRnRMVW1CQktTSVNzVWt3S2c3RmVJeEsyaTFKY1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTEzMDE4CWZpbGU6VmlkZUZhY2UgQnJvd3Nlci5hcHAudGFyLmd6Cm0xaENIMlNLUTZ6a2dmMUk5OGQ1ajFlSUJkeCtocXhPNlJEMzdzNFFJOGQySEh2WWJReUM4Q3FlbWEyUHhmdU1Lc0NVY0EzSi83MWRzOC9PSEtSNUJRPT0K"
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.14/VideFace%20Browser.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2Z0bTd1alcrNU4wUkc5WTNnN29uVXhmeUduMU9RUFhpakZWL3RWVVBqOTBTaFFnNkZEZ2xlMUlVQWg5YmF2QWgySVRNN3pyMzhHZTBlbjBsV3RZMlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTEzNTU1CWZpbGU6VmlkZUZhY2UgQnJvd3Nlci5hcHAudGFyLmd6CldqaHJlT0t2bkVTQ21OcW9lWTJYb21OeXNWNndBekUvN1RGcDVzVFpoRFllK2x3eHlqQjF2Zk9ibWhvUGlJOHBvVGE0cXZEZGdyZDFCR0ZISjlRMkJnPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.13/VideFace%20Browser.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK1p2cVVZajNZZTlRZE5yRWk1VFpLd1NQK1o5M1ExVDBtSUI4LzlzaW5qdC80ZWNFY3ZOUHI4MHNYVTh6dmhlMFgxYUVpUFg3YTdxdUlTS2VBb09PUFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTEzMDM3CWZpbGU6VmlkZUZhY2UgQnJvd3Nlci5hcHAudGFyLmd6Ci85dzFDWUhMWlFZQ3l2RGhqUHpJUWhwZmVFYzg3RThzMTZmT2E5NGJuVmo5VGlRYXE5SUdaQWFOQ0xnTHpIKytIaGtFVUtJRzlZaW1tZ3hCbmQ4dUF3PT0K"
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.14/VideFace%20Browser.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2ZXVy9RamhnSVdYczVmQWdjMjZPeVdhTEZDRjZOT3d6dUNEVlovLzI3c3ZXaWFaT0lSSWxWdWhWMEgyZkxpWGRSQjRvZGFRYkpGeVM3MmI3UkxhUGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTEzNDM4CWZpbGU6VmlkZUZhY2UgQnJvd3Nlci5hcHAudGFyLmd6CmdQaDNxczZUdjdnTTFyT1Jna0VrSXpWdVIyblB0SE1OTnc4Rnc2RGlJeXNmbkRNT3R6SDJUajJKb1hZcUk4NDg3LzJLOGQ1QmE4eHcxVWZpdy9GU0N3PT0K"
     }
   }
 }
