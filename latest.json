@@ -1,0 +1,19 @@
+{
+  "version": "0.7.16",
+  "notes": "VideFace Browser v0.7.16",
+  "pub_date": "2026-05-27T22:10:55Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/xlgabriel/videfacebrowser-releases/releases/download/v0.7.16/VideFace%20Browser_0.7.16_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2ZxbXVENWdyaGFYZVhYZ09YMlErZ1p6YXUrMWJYeTViTnY1dUhGTE9pZ1JsY2ZNa1dQWVJ4T0JwR3JsU1EzRXdsMmY1OVo1NzIwSzhhVXlqVmlBZndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE5Njk5CWZpbGU6VmlkZUZhY2UgQnJvd3Nlcl8wLjcuMTZfeDY0LXNldHVwLmV4ZQpsbWxHMWFLRVdHWWNUWXpVR21zRkIvQ1h2T1A5eHFtaEt0dnN0d2JxZVhmSTladWdvUzZmWk5LNzZTTUhSem1EV1dpdUFDbXIxdjc5Uyt5STNUbGJDUT09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.16/VideFace%20Browser.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK1diRGZ3aHF0UnR6ZHdNQzNVYnFMTUk3QmFqWXJZbGNSUUQ1dStUcEV5d2FCTTJkd0h2bFdFRkhwNFdteHNBdFJxemZ4ZmpPdUZjRFQ5QmtZZExZMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE5MDgyCWZpbGU6VmlkZUZhY2UgQnJvd3Nlci5hcHAudGFyLmd6ClJ4VjF0eDUvbFdEMVBWYmNoQ2t1bTd4YStpeEwvNWdrcTh0TWlXeGo0RG51WU9Na3VObXd5MzZkdHJxcDR3dERXMVh4cEhpZ2gwR0NKVU9YL1NYcEFRPT0K"
+    },
+    "darwin-aarch64": {
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.16/VideFace%20Browser.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2FTazhVZ2hueVVpYkNwYThtVTVKWGVJUVd1TFV3cDRkSDlmZFlnd3hTdHNTbCtnZ0x5MnpQOWFpRDBERmZBbktiZ1hMK1M4dkc5dURUL050a2FSYnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE5MTExCWZpbGU6VmlkZUZhY2UgQnJvd3Nlci5hcHAudGFyLmd6CkVta3p1WUJSQ2oyWGprcXdsWFlsQTlzcXY1NFFLd2s1em9sTi8wRjZGQzhxQjZ6WkVyQVZCWHNZNmVFbHh2WjZDUE9oeW1BSk9rVDNKemFkZ3o2dkRnPT0K"
+    }
+  }
+}
