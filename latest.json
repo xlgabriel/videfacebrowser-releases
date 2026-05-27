@@ -1,19 +1,19 @@
 {
-  "version": "0.7.5",
-  "notes": "VideFace Browser v0.7.5",
-  "pub_date": "2026-05-27T04:00:27Z",
+  "version": "0.7.6",
+  "notes": "VideFace Browser v0.7.6",
+  "pub_date": "2026-05-27T04:27:34Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.5/VideFace",
-      "signature": ""
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.6/VideFace%20Browser_0.7.6_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK1UrT1IzK21ZRW43a3FTWWttSGJYUkdkakNhMFJXM1NzWURiek01MEsydEtVWkdDdm5ySGNFK2xHdk16Y2JYblpEWXNuUzdiK1lFODRZS3dKWVZCMWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODU1ODk2CWZpbGU6VmlkZUZhY2UgQnJvd3Nlcl8wLjcuNl94NjRfZW4tVVMubXNpCk9zSG1TN0pKQm9kWFdBVTdRc0pnbWw1SGxFSGdGV2ZuNDNLT05uRVpMbEU3K240Rm9SWFhtZlFTYVhjUXJBd2lCZDFpOHlJSHk4ajBrYVU1YTZKMkFnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.5/VideFace",
-      "signature": ""
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.6/VideFace%20Browser.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK1QvUGdtQ2JzY09uWFNFbmdsTDBaQUs4dE1hR080Y2ZKcmVseTVOdGJNUkpCdDNGYW5CL0N2YUw0U2RabTNMZml0WGRNSHhFQzdwZ2ErNkRRQmI1V0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODU1MjkxCWZpbGU6VmlkZUZhY2UgQnJvd3Nlci5hcHAudGFyLmd6ClVGZWVHSXlGSHNwNlJlL09RNFhlajVVZnJYTkZXUnNBZVFkMTV5SHdMalBaUTZURU5zWThkM1dkbUovd1Zmc1ZJSjh5QjBIM1JaWDU3UnJCV212RERnPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.5/VideFace",
-      "signature": ""
+      "url": "https://raw.githubusercontent.com/xlgabriel/videfacebrowser-releases/main/releases/0.7.6/VideFace%20Browser.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2V1ZU5ERmZqTEVxMTRETkM3K1d1Tld0N202cTNLcC81ZzVwcDF2b1AvcE9JUkFXdlJ5MlUxMC9qb3ZMQU1hd3dEbzdvZ2dKTkxFbGZIV1NqWjVNRXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODU1MjUzCWZpbGU6VmlkZUZhY2UgQnJvd3Nlci5hcHAudGFyLmd6CkJFV0ErSnkvZ0pPNVBiR1RCdXVtK2U0TnFaZXR2NWFIVy9Nckh4b210bGQ5TWtSMytMbkFURWRET2ZXV2E3T25OR1kvdFR6UHBaZ3R2RWNBOWFNTUR3PT0K"
     }
   }
 }
