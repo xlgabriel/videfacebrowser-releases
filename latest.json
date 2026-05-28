@@ -1,11 +1,11 @@
 {
-  "version": "0.7.19",
-  "notes": "VideFace Browser v0.7.19",
-  "pub_date": "2026-05-28T01:00:18Z",
+  "version": "0.7.20",
+  "notes": "VideFace Browser v0.7.20",
+  "pub_date": "2026-05-28T01:35:28Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/xlgabriel/videfacebrowser-releases/releases/download/v0.7.19/VideFace.Browser_0.7.19_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2NjM2J2RGx5TU9ER09YaUVaM1BQaVByays5UWFQRWZtQ1pwb3NZbGlKM3dPeklBaCsySHN0Zm0vV0xwSUZTRVZ3c1VoUzNRZlVLRFB2eC9qbFI5dWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTI0NDgwCWZpbGU6VmlkZUZhY2UgQnJvd3Nlcl8wLjcuMTlfeDY0LXNldHVwLmV4ZQpLT3grYnlqUmhGMnJPdHJVRW9OY1lOemFHQ0QxS2xJVVJPVWJEV2thZERlVFBMQlR6WTA4eHhKa2Z1OGhORmswbGp0V1VTUEQxWVRjaVNySlkzSEVDQT09Cg=="
+      "url": "https://github.com/xlgabriel/videfacebrowser-releases/releases/download/v0.7.20/VideFace.Browser_0.7.20_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEQvLzVjWUMrK2V6c0gycEEwZ3c5NThYV25XakF3N1FHNUQ3RkxRbzdDSFViVmpjNDFxcVd2OS9LU21Jbm9MajFMa1dzTHhKYTN0THJaK1NLTHdTK0FwdGhIUWJJTVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTMxOTU3CWZpbGU6VmlkZUZhY2UgQnJvd3Nlcl8wLjcuMjBfeDY0LXNldHVwLmV4ZQp3TnZhckdDeXZPSXNqUzR4UmNTamg0MkVIRGVscUttR0ZOaGlKeCtXYTMyaEVDRHgwYko4eHh1U1BndThrZThNejRmUCtTMVBpUHZhSURCdFc0RmpBZz09Cg=="
     }
   }
 }
